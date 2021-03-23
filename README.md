@@ -23,6 +23,5 @@
   - Gatsby
   - Testing
 - 💻 The Collab Lab participant (Cohort 12)
-- :wheelchair: Web Accessibility advocate and former mentor for an Accessible Web Development workshop through NYU
 
 
