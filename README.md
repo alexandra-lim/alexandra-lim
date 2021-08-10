@@ -16,12 +16,14 @@
 
 - 👩🏻‍💻 Front-End Developer
 - 🌎 Based in Toronto, Canada
-- 🌱 Currently working on my React skills
-- 📚 Hoping to learn very soon:
-  - Redux
+- 🌱 Currently working with:
+  - React
   - TypeScript
-  - Gatsby
-  - Testing
+  - GraphQL
+  - Emotion (CSS-in-JS)
+  - React Testing Library
+- 📚 Hoping to learn soon:
+  - SQL
 - 💻 The Collab Lab participant (Cohort 12)
 
 
