@@ -14,8 +14,8 @@
 - ⚡ Fun fact: ...
 -->
 
-- 👩🏻‍💻 Front-End Developer
-- 🌎 Based in Toronto, Canada
+- 👩🏻‍💻 Front End Developer
+- 🌎 Based in Kitchener-Waterloo, Canada
 - 🌱 Currently working with:
   - React
   - TypeScript
